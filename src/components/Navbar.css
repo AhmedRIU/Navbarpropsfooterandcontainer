@@ -1,0 +1,36 @@
+ul,
+nav {
+  display: flex;
+}
+
+li {
+  list-style-type: none;
+}
+
+ul {
+  gap: 34px;
+}
+
+nav {
+  background-color: beige;
+  padding: 23px;
+}
+
+/* .container {
+  display: flex;
+  margin-top: 200px;
+  align-items: center;
+  border: 2px solid;
+  border-color: gray;
+  padding: 20px;
+  width: 700px;
+  height: 40px;
+  margin-left: 400px;
+  border-radius: 20px;
+} */
+
+.checkbox {
+  margin-left: auto;
+  display: flex;
+  gap: 10px;
+}
